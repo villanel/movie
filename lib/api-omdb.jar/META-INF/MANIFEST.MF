@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Created-By: Apache Maven 3.8.6
-Built-By: vill
-Build-Jdk: 19.0.1
-Implementation-Title: 2022-11-18-0310
-Implementation-Version: 
-Specification-Title: API-Open Movie Database
-Specification-Version: 1.8-SNAPSHOT
-
