@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="API-OMDB-1.8-SNAPSHOT-2022-11-18-0310-acb506d">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../api-omdb/target/API-OMDB-1.8-SNAPSHOT-2022-11-18-0310-acb506d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

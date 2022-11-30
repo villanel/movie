@@ -1,0 +1,25 @@
+include 'deployment-styles:jsr109'
+include 'deployment-styles:standalone'
+include 'deployment-styles:tomcat'
+
+include 'exceptions:custom-fault'
+include 'exceptions:custom-fault-client'
+include 'exceptions:java-exception'
+include 'exceptions:java-exception-client'
+include 'exceptions:soap-fault'
+
+include 'java-first:minimal'
+include 'java-first:custom'
+
+include 'method-overloading'
+
+include 'type-mapping:java2wsdl'
+include 'type-mapping:wsdl2java'
+
+include 'wsdl-styles:document-literal'
+include 'wsdl-styles:document-literal-wrapped'
+include 'wsdl-styles:rpc-literal'
+
+include 'ws-client:plain-style'
+include 'ws-client:wrapper-style'
+include 'ws-client:dynamic-style'

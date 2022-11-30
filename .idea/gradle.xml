@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.5.1_1/libexec" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/deployment-styles" />
+            <option value="$PROJECT_DIR$/deployment-styles/jsr109" />
+            <option value="$PROJECT_DIR$/deployment-styles/standalone" />
+            <option value="$PROJECT_DIR$/deployment-styles/tomcat" />
+            <option value="$PROJECT_DIR$/exceptions" />
+            <option value="$PROJECT_DIR$/exceptions/custom-fault" />
+            <option value="$PROJECT_DIR$/exceptions/custom-fault-client" />
+            <option value="$PROJECT_DIR$/exceptions/java-exception" />
+            <option value="$PROJECT_DIR$/exceptions/java-exception-client" />
+            <option value="$PROJECT_DIR$/exceptions/soap-fault" />
+            <option value="$PROJECT_DIR$/java-first" />
+            <option value="$PROJECT_DIR$/java-first/custom" />
+            <option value="$PROJECT_DIR$/java-first/minimal" />
+            <option value="$PROJECT_DIR$/method-overloading" />
+            <option value="$PROJECT_DIR$/type-mapping" />
+            <option value="$PROJECT_DIR$/type-mapping/java2wsdl" />
+            <option value="$PROJECT_DIR$/type-mapping/wsdl2java" />
+            <option value="$PROJECT_DIR$/ws-client" />
+            <option value="$PROJECT_DIR$/ws-client/dynamic-style" />
+            <option value="$PROJECT_DIR$/ws-client/plain-style" />
+            <option value="$PROJECT_DIR$/ws-client/wrapper-style" />
+            <option value="$PROJECT_DIR$/wsdl-styles" />
+            <option value="$PROJECT_DIR$/wsdl-styles/document-literal" />
+            <option value="$PROJECT_DIR$/wsdl-styles/document-literal-wrapped" />
+            <option value="$PROJECT_DIR$/wsdl-styles/rpc-literal" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
